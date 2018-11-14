@@ -1,0 +1,8 @@
+# Output binary
+rds-datadog-config
+
+# No accidental credentials please
+passwords.ini
+*.ini
+mysql.yaml
+*.yaml
